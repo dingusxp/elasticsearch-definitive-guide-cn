@@ -1,8 +1,12 @@
-<center>![cover](https://raw.githubusercontent.com/looly/elasticsearch-definitive-guide-cn/master/cover_small.jpg)</center>
+![cover](https://raw.githubusercontent.com/looly/elasticsearch-definitive-guide-cn/master/cover_small.jpg)
 
 # Elasticsearch 权威指南（中文版）
 
-## 阅读地址：[Elasticsearch权威指南（中文版）](https://www.gitbook.io/book/looly/elasticsearch-the-definitive-guide-cn/)
+## 阅读地址：~~[Elasticsearch权威指南（中文版）](http://es.xiaoleilu.com/)~~
+
+## 最新版阅读地址：[Elasticsearch: 权威指南](http://es-guide-preview.elasticsearch.cn/)
+
+## 感谢大家对Elasticsearch权威指南（中文版）的支持，现在新版的翻译工作已经迁移至 [https://github.com/elasticsearch-cn/elasticsearch-definitive-guide](https://github.com/elasticsearch-cn/elasticsearch-definitive-guide) 
 
 ----------------------------------------
 
@@ -24,6 +28,9 @@
 * [@xdream86](https://github.com/xdream86)
 * [@conan007ai](https://github.com/conan007ai)
 * [@williamzhao](https://github.com/williamzhao)
+* [@dingusxp](https://github.com/dingusxp)
+* [@birdroidcn](https://github.com/birdroidcn)
+* [@MaggieHwang](https://github.com/MaggieHwang)
 
 感谢参与翻译的小伙伴们~~
 
@@ -41,7 +48,11 @@
 
 #### 阅读地址：
 
+[http://es-guide-preview.elasticsearch.cn/](http://es-guide-preview.elasticsearch.cn/)
+
 [http://es.xiaoleilu.com/](http://es.xiaoleilu.com/)
+
+[http://wiki.jikexueyuan.com/project/elasticsearch-definitive-guide-cn/](http://wiki.jikexueyuan.com/project/elasticsearch-definitive-guide-cn/)
 
 ## 说明
 之前接触Elasticsearch只是最简单的使用，想要深入了解内部功能，借助翻译同时系统学习。由于英语比较菜，第一次翻译文档，如有不妥，欢迎提issue:
@@ -67,11 +78,9 @@
 4. 运行 `git pull looly master` 拉取并合并到本地
 5. 翻译内容
 6. commit后push到自己的库（`git push origin master`）
-7. 登陆Github在你首页可以看到一个 `pull request` 按钮，点击它，填写一些说明信息，然后提交即可。
+7. 登录Github在你首页可以看到一个 `pull request` 按钮，点击它，填写一些说明信息，然后提交即可。
 
 1~3是初始化操作，执行一次即可。在翻译前必须执行第4步同步我的库（这样避免冲突），然后执行5~7既可。
 
-## 注意
-
-1. 文档还未翻译完成，使用gitbook格式，已经翻译完成的章节会陆续提交到gitbook。
-2. 为了便于翻译，未翻译部分拷贝自官方英文文档。
+> #### 注意
+> 现在新版的翻译工作已经迁移至 [https://github.com/elasticsearch-cn/elasticsearch-definitive-guide](https://github.com/elasticsearch-cn/elasticsearch-definitive-guide) 
